@@ -21,3 +21,6 @@ console.log(rep)
 // exo4
 let exo4 = string + exo2
 console.log(exo4)
+
+// exo5
+let nb = 5
