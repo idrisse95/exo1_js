@@ -5,4 +5,5 @@ let c=a+b
 console.log(c)
 
 // exo2
-String ""
+let string = "J’aime les tartines et j’en mange"
+console.log(string)
