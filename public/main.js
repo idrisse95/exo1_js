@@ -31,3 +31,7 @@ let nb2 = 35
 // exo7
 let exo7 = nb + nb2
 console.log(exo7)
+
+// exo8
+let exo8 = string + nb
+console.log(exo8)
