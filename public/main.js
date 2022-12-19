@@ -37,3 +37,29 @@ let exo8 = string +" " + nb
 console.log(exo8)
 
 // exo1.b
+let reaf = "slt tt lmonde"
+console.log(reaf)
+
+// exo2.b
+let reaf2 = "aurevoir"
+console.log(reaf2)
+
+// exo3.b
+reaf = reaf2
+console.log(reaf)
+
+
+// exo1.c
+let ope=4
+let opeS="6"
+ope>opeS
+
+ope<opeS
+
+ope==opeS
+
+ope!=opeS
+
+ope===opeS
+
+ope!==opeS
