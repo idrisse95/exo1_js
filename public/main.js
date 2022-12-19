@@ -24,3 +24,8 @@ console.log(exo4)
 
 // exo5
 let nb = 5
+
+// exo6
+let nb2 = 35
+
+// 
